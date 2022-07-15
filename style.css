@@ -1,0 +1,21 @@
+body{text-align: center;
+    background-image:url(doodle2.jpg);
+    color:salmon;
+}
+hr{
+    width:50px;
+    height:5px;
+    color:aquamarine
+}
+h1,h2{
+    background-color:bisque;
+}
+img:hover{
+    transform:scale(0.9)
+}
+
+}
+img{
+    size:100px;
+    margin:300px;
+}
